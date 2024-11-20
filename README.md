@@ -28,3 +28,4 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=500&color=D76284&background=FFFFFF00&width=435&lines=Obrigado+pela+visita+ao+perfil!" alt="Typing SVG" /></a>
 </p>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D7628455&height=120&section=footer&text=&fontColor=ffffff&fontSize=20&fontAlignY=32" alt="Footer Banner" />
