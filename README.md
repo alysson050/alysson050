@@ -18,7 +18,7 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=sql&labelColor=orange"&nbsp; />
 </div><br/>
 
-💻 Futuro Cientista de dados, tecnólogo em analise e desenvolvimento de sistemas, adquirindo conhecimento na área da programação.<br></br>
+💻 Futuro Ciêntista de dados, tecnólogo em análise e desenvolvimento de sistemas, adquirindo conhecimento na área da programação.<br></br>
 
 <div>
 <p align="center">
