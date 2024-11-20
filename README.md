@@ -1,3 +1,4 @@
+
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D7628455&height=120&section=header"/>
 
  # Olá! Me chamo Alysson Kayk! 👋🏻
@@ -5,9 +6,10 @@
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alysson_cintra/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alysson-avelino-825b242a3/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alysson050&hide_progress=true&theme=dracula)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alysson050&theme=dracula)](https://github.com/alysson050/github-readme-stats)
+
 
 ## Tecnologias que uso até o momento
 
