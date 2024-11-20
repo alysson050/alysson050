@@ -21,3 +21,8 @@
 
 
 💻 Futuro Cientista de dados, tecnólogo em analise e desenvolvimento de sistemas, adquirindo conhecimento sobre programação.
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=25&duration=4000&pause=500&width=435&lines=Obrigado+pela+visita+ao+perfil!)](https://git.io/typing-svg)
+
+</p>
