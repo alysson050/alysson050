@@ -6,10 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alysson_cintra/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alysson-avelino-825b242a3/)
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alysson050&theme=dracula)](https://github.com/alysson050/github-readme-stats)
-
 
 ## Tecnologias que uso até o momento
 
@@ -21,9 +18,7 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=sql&labelColor=orange"&nbsp; />
 </div><br/>
 
-
 💻 Futuro Cientista de dados, tecnólogo em analise e desenvolvimento de sistemas, adquirindo conhecimento sobre programação.<br></br>
-
 
 <div>
 <p align="center">
