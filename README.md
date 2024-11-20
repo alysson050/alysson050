@@ -1,4 +1,4 @@
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D7628455&height=120&section=header"/>
 
  # Olá! Me chamo Alysson Kayk! 👋🏻
  
@@ -20,9 +20,11 @@
 </div><br/>
 
 
-💻 Futuro Cientista de dados, tecnólogo em analise e desenvolvimento de sistemas, adquirindo conhecimento sobre programação.
+💻 Futuro Cientista de dados, tecnólogo em analise e desenvolvimento de sistemas, adquirindo conhecimento sobre programação.<br></br>
+
+
+<div>
 <p align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=25&duration=4000&pause=500&width=435&lines=Obrigado+pela+visita+ao+perfil!)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=500&color=D76284&background=FFFFFF00&width=435&lines=Obrigado+pela+visita+ao+perfil!" alt="Typing SVG" /></a>
 </p>
+</div>
