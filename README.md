@@ -1,5 +1,5 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
-  
+
  # Olá! Me chamo Alysson Kayk! 👋🏻
  
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alysson_cintra/)
@@ -16,7 +16,8 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=sql&labelColor=orange"&nbsp; />
 </div><br/>
 
-💻 Futuro Cientista de dados, tecnólogo em analise e desenvolvimento de sistemas, adquirindo conhecimento sobre programação.
 
+💻 Futuro Cientista de dados, tecnólogo em analise e desenvolvimento de sistemas, adquirindo conhecimento sobre programação.
